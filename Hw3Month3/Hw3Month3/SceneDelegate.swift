@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  Hw3Month3
+//  HW3MONTH3
 //
-//  Created by Mac on 29/12/2022.
+//  Created by Mac on 30/12/2022.
 //
 
 import UIKit
